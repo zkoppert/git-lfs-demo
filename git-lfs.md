@@ -15,7 +15,3 @@ Git LFS provides a system where large files can be stored in git without reducin
 3. Track new files in Git LFS for file types that are typically larger
 
 `git lfs track "*.pdf; git add .gitattributes`
-
-4. Track existing large files in Git LFS
-
-`git lfs migrate --above="5 MB"`
