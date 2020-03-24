@@ -15,3 +15,6 @@ Git LFS provides a system where large files can be stored in git without reducin
 3. Track new files in Git LFS for file types that are typically larger
 
 `git lfs track "*.pdf; git add .gitattributes`
+
+## Gotcha's
+- Git Desktop cannot do this. 😭
